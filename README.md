@@ -1,0 +1,2 @@
+# c-uygulamalar-
+c uygulamaları
